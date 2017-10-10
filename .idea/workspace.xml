@@ -39,11 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rnn.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rnn.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Documents/WorkSpace/PyCharm/Tensorflow/rnn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="33" column="16" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="33" selection-end-column="16" />
+            <state relative-caret-position="222">
+              <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Documents/WorkSpace/PyCharm/Tensorflow/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -90,10 +100,10 @@
         <option value="$USER_HOME$/Documents/WorkSpace/PyCharm/RNN_demo/nn.py" />
         <option value="$USER_HOME$/Documents/WorkSpace/PyCharm/Tensorflow/client.py" />
         <option value="$USER_HOME$/Documents/WorkSpace/PyCharm/Tensorflow/nn.py" />
-        <option value="$USER_HOME$/Documents/WorkSpace/PyCharm/Tensorflow/.gitignore" />
         <option value="$USER_HOME$/Documents/WorkSpace/PyCharm/Tensorflow/cnn.py" />
         <option value="$USER_HOME$/Documents/WorkSpace/PyCharm/Tensorflow/dnn.py" />
         <option value="$USER_HOME$/Documents/WorkSpace/PyCharm/Tensorflow/rnn.py" />
+        <option value="$USER_HOME$/Documents/WorkSpace/PyCharm/Tensorflow/.gitignore" />
       </list>
     </option>
   </component>
@@ -585,14 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/WorkSpace/PyCharm/Tensorflow/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Documents/WorkSpace/PyCharm/Tensorflow/dnn.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -613,8 +615,16 @@
     </entry>
     <entry file="file://$USER_HOME$/Documents/WorkSpace/PyCharm/Tensorflow/rnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="33" column="16" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="33" selection-end-column="16" />
+        <state relative-caret-position="222">
+          <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WorkSpace/PyCharm/Tensorflow/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           <folding />
         </state>
       </provider>
